@@ -1,0 +1,33 @@
+services:
+
+devices:
+  - name: Debian
+    ip: 10.0.3.1
+
+  - name: Router1
+    ip: 10.0.5.1
+
+  - name: Router2
+    ip: 10.0.2.1
+
+  - name: Rocky
+    ip: 10.0.4.1
+
+  - name: Kali
+    ip: 10.0.1.252
+
+  - name: Windows
+    ip: 10.0.1.4
+
+  - name: Parrot
+    ip: 10.0.1.144
+
+  - name: Gateway
+    ip: 10.0.0.13
+
+  - name: Google DNS
+    ip: 8.8.8.8
+
+  - name: Cloudflare
+    ip: 1.1.1.1
+    
